@@ -1,0 +1,1 @@
+allow incremental_prop incremental_prop:file { read };

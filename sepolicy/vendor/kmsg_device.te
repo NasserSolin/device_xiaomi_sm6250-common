@@ -1,0 +1,1 @@
+allow kmsg_device kmsg_device:chr_file { getattr };
